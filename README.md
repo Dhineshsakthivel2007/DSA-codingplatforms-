@@ -51,33 +51,6 @@ Solutions are organized to make it easier to revisit important concepts and reco
 | 🟪 Sorting | Merge Sort, Quick Sort, Custom Sorting |
 
 
-# 📂 Repository Structure
-
-Solutions are organized according to the problem.
-
-LeetCode/
-│
-├── 0001-two-sum/
-│   └── solution.cpp
-│
-├── 0015-3sum/
-│   └── solution.cpp
-│
-├── 0020-valid-parentheses/
-│   └── solution.cpp
-│
-├── 0053-maximum-subarray/
-│   └── solution.cpp
-│
-├── 0121-best-time-to-buy-and-sell-stock/
-│   └── solution.cpp
-│
-└── 
-
-Each solution focuses on the underlying algorithm and includes complexity considerations where appropriate.
-
----
-
 # 📊 Difficulty Distribution
 
 | Difficulty | Focus                                |
@@ -94,7 +67,6 @@ Each solution focuses on the underlying algorithm and includes complexity consid
 
 For each problem, I try to follow a consistent process:
 
-```text
 Understand the Problem
         ↓
 Identify Constraints
@@ -120,7 +92,7 @@ I focus on understanding the efficiency of each solution.
 
 ### Example
 
-```text
+
 Problem: Two Sum
 
 Brute Force
@@ -130,7 +102,7 @@ Space: O(1)
 Optimized
 Time:  O(n)
 Space: O(n)
-```
+
 
 The repository is intended to document not only **what works**, but also **why it works and how efficiently it works**.
 
